@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "id": "BCFood Case Analyzer",
+      "name": "BCFood Case Analyzer",
+      "version": "1.0",
+      "description": "Analyzes cases and provides insights"
+    }
+  ]
+}
